@@ -1,5 +1,6 @@
 <template>
   <main>
+    <InDevNotice/>
     <l-map class="map-base" :zoom="zoom" :center="center">
       <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
       <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
@@ -11,8 +12,13 @@
 </template>
 
 <script>
+import InDevNotice from '@/components/InDevNotice'
+
 export default {
   name: 'App',
+  components: {
+    InDevNotice
+  },
   data() {
     return {
       geojson: {
@@ -172,7 +178,7 @@ main {
     animation: spin 1s linear infinite;
 }
 
-main .leaflet-container {
+main .leaflet-container, body {
   font-family: 'Inter';
 }
 

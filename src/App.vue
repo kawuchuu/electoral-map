@@ -52,7 +52,7 @@ export default {
             case "National":
               color = "#006644"
               break;
-            case "LNP":
+            case "Liberal National":
               color = "#1456f1"
               break;
             case "Independent":

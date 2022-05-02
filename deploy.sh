@@ -2,7 +2,7 @@
 
 set -e
 
-#yarn build
+yarn build
 
 cd dist
 

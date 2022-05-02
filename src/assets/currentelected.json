@@ -1,0 +1,606 @@
+{
+    "Adelaide": {
+        "party": "Labor",
+        "mp": "Steve Georganas"
+    },
+    "Aston": {
+        "party": "Liberal",
+        "mp": "Alan Tudge"
+    },
+    "Ballarat": {
+        "party": "Labor",
+        "mp": "Catherine King"
+    },
+    "Banks": {
+        "party": "Liberal",
+        "mp": "David Coleman"
+    },
+    "Barker": {
+        "party": "Liberal",
+        "mp": "Tony Pasin"
+    },
+    "Barton": {
+        "party": "Labor",
+        "mp": "Linda Burney"
+    },
+    "Bass": {
+        "party": "Liberal",
+        "mp": "Bridget Archer"
+    },
+    "Bean": {
+        "party": "Labor",
+        "mp": "David Smith"
+    },
+    "Bendigo": {
+        "party": "Labor",
+        "mp": "Lisa Chesters"
+    },
+    "Bennelong": {
+        "party": "Liberal",
+        "mp": "John Alexander"
+    },
+    "Berowra": {
+        "party": "Liberal",
+        "mp": "Julian Leeser"
+    },
+    "Blair": {
+        "party": "Labor",
+        "mp": "Shayne Neumann"
+    },
+    "Blaxland": {
+        "party": "Labor",
+        "mp": "Jason Clare"
+    },
+    "Bonner": {
+        "party": "LNP",
+        "mp": "Ross Vasta"
+    },
+    "Boothby": {
+        "party": "Liberal",
+        "mp": "Nicolle Flint"
+    },
+    "Bowman": {
+        "party": "LNP",
+        "mp": "Andrew Laming"
+    },
+    "Braddon": {
+        "party": "Liberal",
+        "mp": "Gavin Pearce"
+    },
+    "Bradfield": {
+        "party": "Liberal",
+        "mp": "Paul Fletcher"
+    },
+    "Brand": {
+        "party": "Labor",
+        "mp": "Madeleine King"
+    },
+    "Brisbane": {
+        "party": "LNP",
+        "mp": "Trevor Evans"
+    },
+    "Bruce": {
+        "party": "Labor",
+        "mp": "Julian Hill"
+    },
+    "Burt": {
+        "party": "Labor",
+        "mp": "Matt Keogh"
+    },
+    "Calare": {
+        "party": "National",
+        "mp": "Andrew Gee"
+    },
+    "Calwell": {
+        "party": "Labor",
+        "mp": "Maria Vamvakinou"
+    },
+    "Canberra": {
+        "party": "Labor",
+        "mp": "Alicia Payne"
+    },
+    "Canning": {
+        "party": "Liberal",
+        "mp": "Andrew Hastie"
+    },
+    "Capricornia": {
+        "party": "LNP",
+        "mp": "Michelle Landry"
+    },
+    "Casey": {
+        "party": "Liberal",
+        "mp": "Tony Smith"
+    },
+    "Chifley": {
+        "party": "Labor",
+        "mp": "Ed Husic"
+    },
+    "Chisholm": {
+        "party": "Liberal",
+        "mp": "Gladys Liu"
+    },
+    "Clark": {
+        "party": "Independent",
+        "mp": "Andrew Wilkie"
+    },
+    "Cook": {
+        "party": "Liberal",
+        "mp": "Scott Morrison"
+    },
+    "Cooper": {
+        "party": "Labor",
+        "mp": "Ged Kearney"
+    },
+    "Corangamite": {
+        "party": "Labor",
+        "mp": "Libby Coker"
+    },
+    "Corio": {
+        "party": "Labor",
+        "mp": "Richard Marles"
+    },
+    "Cowan": {
+        "party": "Labor",
+        "mp": "Anne Aly"
+    },
+    "Cowper": {
+        "party": "National",
+        "mp": "Pat Conaghan"
+    },
+    "Cunningham": {
+        "party": "Labor",
+        "mp": "Sharon Bird"
+    },
+    "Curtin": {
+        "party": "Liberal",
+        "mp": "Celia Hammond"
+    },
+    "Dawson": {
+        "party": "LNP",
+        "mp": "George Christensen"
+    },
+    "Deakin": {
+        "party": "Liberal",
+        "mp": "Michael Sukkar"
+    },
+    "Dickson": {
+        "party": "LNP",
+        "mp": "Peter Dutton"
+    },
+    "Dobell": {
+        "party": "Labor",
+        "mp": "Emma McBride"
+    },
+    "Dunkley": {
+        "party": "Labor",
+        "mp": "Peta Murphy"
+    },
+    "Durack": {
+        "party": "Liberal",
+        "mp": "Melissa Price"
+    },
+    "Eden-Monaro": {
+        "party": "Labor",
+        "mp": "Kristy McBain"
+    },
+    "Fadden": {
+        "party": "LNP",
+        "mp": "Stuart Robert"
+    },
+    "Fairfax": {
+        "party": "LNP",
+        "mp": "Ted O'Brien"
+    },
+    "Farrer": {
+        "party": "Liberal",
+        "mp": "Sussan Ley"
+    },
+    "Fenner": {
+        "party": "Labor",
+        "mp": "Andrew Leigh"
+    },
+    "Fisher": {
+        "party": "LNP",
+        "mp": "Andrew Wallace"
+    },
+    "Flinders": {
+        "party": "Liberal",
+        "mp": "Greg Hunt"
+    },
+    "Flynn": {
+        "party": "LNP",
+        "mp": "Ken O'Dowd"
+    },
+    "Forde": {
+        "party": "LNP",
+        "mp": "Bert Van Manen"
+    },
+    "Forrest": {
+        "party": "Liberal",
+        "mp": "Nola Marino"
+    },
+    "Fowler": {
+        "party": "Labor",
+        "mp": "Chris Hayes"
+    },
+    "Franklin": {
+        "party": "Labor",
+        "mp": "Julie Collins"
+    },
+    "Fraser": {
+        "party": "Labor",
+        "mp": "Daniel Mulino"
+    },
+    "Fremantle": {
+        "party": "Labor",
+        "mp": "Josh Wilson"
+    },
+    "Gellibrand": {
+        "party": "Labor",
+        "mp": "Tim Watts"
+    },
+    "Gilmore": {
+        "party": "Labor",
+        "mp": "Fiona Phillips"
+    },
+    "Gippsland": {
+        "party": "National",
+        "mp": "Darren Chester"
+    },
+    "Goldstein": {
+        "party": "Liberal",
+        "mp": "Tim Wilson"
+    },
+    "Gorton": {
+        "party": "Labor",
+        "mp": "Brendan O'Connor"
+    },
+    "Grayndler": {
+        "party": "Labor",
+        "mp": "Anthony Albanese"
+    },
+    "Greenway": {
+        "party": "Labor",
+        "mp": "Michelle Rowland"
+    },
+    "Grey": {
+        "party": "Liberal",
+        "mp": "Rowan Ramsey"
+    },
+    "Griffith": {
+        "party": "Labor",
+        "mp": "Terri Butler"
+    },
+    "Groom": {
+        "party": "LNP",
+        "mp": "Garth Hamilton"
+    },
+    "Hasluck": {
+        "party": "Liberal",
+        "mp": "Ken Wyatt"
+    },
+    "Hawke": {
+        "party": "",
+        "mp": ""
+    },
+    "Herbert": {
+        "party": "LNP",
+        "mp": "Phillip Thompson"
+    },
+    "Higgins": {
+        "party": "Liberal",
+        "mp": "Katie Allen"
+    },
+    "Hindmarsh": {
+        "party": "Labor",
+        "mp": "Mark Butler"
+    },
+    "Hinkler": {
+        "party": "LNP",
+        "mp": "Keith Pitt"
+    },
+    "Holt": {
+        "party": "Labor",
+        "mp": "Anthony Byrne"
+    },
+    "Hotham": {
+        "party": "Labor",
+        "mp": "Clare O'Neil"
+    },
+    "Hughes": {
+        "party": "United Australia",
+        "mp": "Craig Kelly"
+    },
+    "Hume": {
+        "party": "Liberal",
+        "mp": "Angus Taylor"
+    },
+    "Hunter": {
+        "party": "Labor",
+        "mp": "Joel Fitzgibbon"
+    },
+    "Indi": {
+        "party": "Independent",
+        "mp": "Helen Haines"
+    },
+    "Isaacs": {
+        "party": "Labor",
+        "mp": "Mark Dreyfus"
+    },
+    "Jagajaga": {
+        "party": "Labor",
+        "mp": "Kate Thwaites"
+    },
+    "Kennedy": {
+        "party": "Katter's Australian",
+        "mp": "Bob Katter"
+    },
+    "Kingsford Smith": {
+        "party": "Labor",
+        "mp": "Matt Thistlethwaite"
+    },
+    "Kingston": {
+        "party": "Labor",
+        "mp": "Amanda Rishworth"
+    },
+    "Kooyong": {
+        "party": "Liberal",
+        "mp": "Josh Frydenberg"
+    },
+    "La Trobe": {
+        "party": "Liberal",
+        "mp": "Jason Wood"
+    },
+    "Lalor": {
+        "party": "Labor",
+        "mp": "Joanne Ryan"
+    },
+    "Leichhardt": {
+        "party": "LNP",
+        "mp": "Warren Entsch"
+    },
+    "Lilley": {
+        "party": "Labor",
+        "mp": "Anika Wells"
+    },
+    "Lindsay": {
+        "party": "Liberal",
+        "mp": "Melissa McIntosh"
+    },
+    "Lingiari": {
+        "party": "Labor",
+        "mp": "Warren Snowdon"
+    },
+    "Longman": {
+        "party": "LNP",
+        "mp": "Terry Young"
+    },
+    "Lyne": {
+        "party": "National",
+        "mp": "David Gillespie"
+    },
+    "Lyons": {
+        "party": "Labor",
+        "mp": "Brian Mitchell"
+    },
+    "Macarthur": {
+        "party": "Labor",
+        "mp": "Mike Freelander"
+    },
+    "Mackellar": {
+        "party": "Liberal",
+        "mp": "Jason Falinski"
+    },
+    "Macnamara": {
+        "party": "Labor",
+        "mp": "Josh Burns"
+    },
+    "Macquarie": {
+        "party": "Labor",
+        "mp": "Susan Templeman"
+    },
+    "Makin": {
+        "party": "Labor",
+        "mp": "Tony Zappia"
+    },
+    "Mallee": {
+        "party": "National",
+        "mp": "Anne Webster"
+    },
+    "Maranoa": {
+        "party": "LNP",
+        "mp": "David Littleproud"
+    },
+    "Maribyrnong": {
+        "party": "Labor",
+        "mp": "Bill Shorten"
+    },
+    "Mayo": {
+        "party": "Centre Alliance",
+        "mp": "Rebekha Sharkie"
+    },
+    "McEwen": {
+        "party": "Labor",
+        "mp": "Rob Mitchell"
+    },
+    "McMahon": {
+        "party": "Labor",
+        "mp": "Chris Bowen"
+    },
+    "McPherson": {
+        "party": "LNP",
+        "mp": "Karen Andrews"
+    },
+    "Melbourne": {
+        "party": "Greens",
+        "mp": "Adam Bandt"
+    },
+    "Menzies": {
+        "party": "Liberal",
+        "mp": "Kevin Andrews"
+    },
+    "Mitchell": {
+        "party": "Liberal",
+        "mp": "Alex Hawke"
+    },
+    "Monash": {
+        "party": "Liberal",
+        "mp": "Russell Broadbent"
+    },
+    "Moncrieff": {
+        "party": "LNP",
+        "mp": "Angie Bell"
+    },
+    "Moore": {
+        "party": "Liberal",
+        "mp": "Ian Goodenough"
+    },
+    "Moreton": {
+        "party": "Labor",
+        "mp": "Graham Perett"
+    },
+    "New England": {
+        "party": "National",
+        "mp": "Barnaby Joyce"
+    },
+    "Newcastle": {
+        "party": "Labor",
+        "mp": "Sharon Claydon"
+    },
+    "Nicholls": {
+        "party": "National",
+        "mp": "Damian Drum"
+    },
+    "North Sydney": {
+        "party": "Liberal",
+        "mp": "Trent Zimmerman"
+    },
+    "O'Connor": {
+        "party": "Liberal",
+        "mp": "Rick Wilson"
+    },
+    "Oxley": {
+        "party": "Labor",
+        "mp": "Milton Dick"
+    },
+    "Page": {
+        "party": "National",
+        "mp": "Kevin Hogan"
+    },
+    "Parkes": {
+        "party": "National",
+        "mp": "Mark Coulton"
+    },
+    "Parramatta": {
+        "party": "Labor",
+        "mp": "Julie Owens"
+    },
+    "Paterson": {
+        "party": "Labor",
+        "mp": "Meryl Swanson"
+    },
+    "Pearce": {
+        "party": "Liberal",
+        "mp": "Christian Porter"
+    },
+    "Perth": {
+        "party": "Labor",
+        "mp": "Patrick Gorman"
+    },
+    "Petrie": {
+        "party": "LNP",
+        "mp": "Luke Howarth"
+    },
+    "Rankin": {
+        "party": "Labor",
+        "mp": "Jim Chalmers"
+    },
+    "Reid": {
+        "party": "Liberal",
+        "mp": "Fiona Martin"
+    },
+    "Richmond": {
+        "party": "Labor",
+        "mp": "Justine Elliot"
+    },
+    "Riverina": {
+        "party": "National",
+        "mp": "Michael McCormack"
+    },
+    "Robertson": {
+        "party": "Liberal",
+        "mp": "Lucy Wicks"
+    },
+    "Ryan": {
+        "party": "LNP",
+        "mp": "Julian Simmonds"
+    },
+    "Scullin": {
+        "party": "Labor",
+        "mp": "Andrew Giles"
+    },
+    "Shortland": {
+        "party": "Labor",
+        "mp": "Pat Conroy"
+    },
+    "Solomon": {
+        "party": "Labor",
+        "mp": "Luke Gosling"
+    },
+    "Spence": {
+        "party": "Labor",
+        "mp": "Nick Champion"
+    },
+    "Sturt": {
+        "party": "Liberal",
+        "mp": "James Stevens"
+    },
+    "Swan": {
+        "party": "Liberal",
+        "mp": "Steve Irons"
+    },
+    "Sydney": {
+        "party": "Labor",
+        "mp": "Tanya Plibersek"
+    },
+    "Tangney": {
+        "party": "Liberal",
+        "mp": "Ben Morton"
+    },
+    "Wannon": {
+        "party": "Liberal",
+        "mp": "Dan Tehan"
+    },
+    "Warringah": {
+        "party": "Independent",
+        "mp": "Zali Steggall"
+    },
+    "Watson": {
+        "party": "Labor",
+        "mp": "Tony Burke"
+    },
+    "Wentworth": {
+        "party": "Liberal",
+        "mp": "Dave Sharma"
+    },
+    "Werriwa": {
+        "party": "Labor",
+        "mp": "Anne Stanley"
+    },
+    "Whitlam": {
+        "party": "Labor",
+        "mp": "Stephen Jones"
+    },
+    "Wide Bay": {
+        "party": "LNP",
+        "mp": "Llew O'Brien"
+    },
+    "Wills": {
+        "party": "Labor",
+        "mp": "Peter Khalil"
+    },
+    "Wright": {
+        "party": "LNP",
+        "mp": "Scott Buchholz"
+    }
+}

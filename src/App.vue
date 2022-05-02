@@ -113,11 +113,13 @@ export default {
 
 body {
   margin: 0px;
+  width: 100vw;
+  height: 100vh;
 }
 
 main {
-  width: 100vw;
-  height: 100vh;
+  width: 100%;
+  height: 100%;
 }
 
 .map-base {

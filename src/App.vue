@@ -1,6 +1,7 @@
 <template>
   <main>
     <InDevNotice/>
+    <MoreInfoPane :class="showPane"/>
     <l-map class="map-base" :zoom="zoom" :center="center">
       <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
       <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
@@ -13,11 +14,13 @@
 
 <script>
 import InDevNotice from '@/components/InDevNotice'
+import MoreInfoPane from '@/components/MoreInfoPane.vue'
 
 export default {
   name: 'App',
   components: {
-    InDevNotice
+    InDevNotice,
+    MoreInfoPane
   },
   data() {
     return {
@@ -35,7 +38,8 @@ export default {
         zoomOffset: -1,
       },
       polData: require('@/assets/currentelected.json'),
-      loaded: false
+      loaded: false,
+      panelOpen: false
     }
   },
   computed: {
@@ -43,6 +47,9 @@ export default {
       return {
         onEachFeature: this.onEachFeature,
       }
+    },
+    showPane() {
+      return this.panelOpen ? 'active' : ''
     },
     onEachFeature() {
       return (feature, layer) => {
@@ -109,6 +116,9 @@ export default {
               weight: 2,
               color
             })
+          },
+          click: () => {
+            this.panelOpen = !this.panelOpen
           }
         })
       }

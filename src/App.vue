@@ -94,7 +94,8 @@ export default {
         layer.bindTooltip(
           `<h3>${feature.properties.Elect_div}</h3>
           <p style="color: ${color}">${electorate ? electorate.party : "Unknown"}${coalition ? " (Coalition)" : ""}</p>
-          <p>${electorate ? electorate.mp : "Unknown"}</p>`,
+          <p>${electorate ? electorate.mp : "Unknown"}</p>
+          <em>Click for more info</em>`,
           {
             permanent: false,
             sticky: true
@@ -195,6 +196,7 @@ main .leaflet-container, body {
 main .leaflet-tooltip {
   border-radius: 10px;
   padding: 10px 12px;
+  backdrop-filter: blur(20px);
 }
 
 main .leaflet-tooltip h3 {
@@ -204,5 +206,10 @@ main .leaflet-tooltip h3 {
 
 main .leaflet-tooltip p {
   margin: 2px 0px;
+}
+
+em {
+  opacity: 0.5;
+  font-size: 0.1;
 }
 </style>

@@ -1,6 +1,7 @@
 <template>
   <main>
     <InDevNotice/>
+    <MoreInfoPane :class="showPane"/>
     <l-map class="map-base" :zoom="zoom" :center="center">
       <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
       <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
@@ -13,11 +14,13 @@
 
 <script>
 import InDevNotice from '@/components/InDevNotice'
+import MoreInfoPane from '@/components/MoreInfoPane.vue'
 
 export default {
   name: 'App',
   components: {
-    InDevNotice
+    InDevNotice,
+    MoreInfoPane
   },
   data() {
     return {
@@ -35,7 +38,8 @@ export default {
         zoomOffset: -1,
       },
       polData: require('@/assets/currentelected.json'),
-      loaded: false
+      loaded: false,
+      panelOpen: false
     }
   },
   computed: {
@@ -43,6 +47,9 @@ export default {
       return {
         onEachFeature: this.onEachFeature,
       }
+    },
+    showPane() {
+      return this.panelOpen ? 'active' : ''
     },
     onEachFeature() {
       return (feature, layer) => {
@@ -87,7 +94,8 @@ export default {
         layer.bindTooltip(
           `<h3>${feature.properties.Elect_div}</h3>
           <p style="color: ${color}">${electorate ? electorate.party : "Unknown"}${coalition ? " (Coalition)" : ""}</p>
-          <p>${electorate ? electorate.mp : "Unknown"}</p>`,
+          <p>${electorate ? electorate.mp : "Unknown"}</p>
+          <em>Click for more info</em>`,
           {
             permanent: false,
             sticky: true
@@ -109,6 +117,9 @@ export default {
               weight: 2,
               color
             })
+          },
+          click: () => {
+            this.panelOpen = !this.panelOpen
           }
         })
       }
@@ -185,6 +196,7 @@ main .leaflet-container, body {
 main .leaflet-tooltip {
   border-radius: 10px;
   padding: 10px 12px;
+  backdrop-filter: blur(20px);
 }
 
 main .leaflet-tooltip h3 {
@@ -194,5 +206,10 @@ main .leaflet-tooltip h3 {
 
 main .leaflet-tooltip p {
   margin: 2px 0px;
+}
+
+em {
+  opacity: 0.5;
+  font-size: 0.1;
 }
 </style>

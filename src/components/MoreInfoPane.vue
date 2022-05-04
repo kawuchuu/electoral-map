@@ -2,17 +2,21 @@
     <div class="pane-wrapper">
         <div class="pane">
             <div class="header">
-                <h2>Heading</h2>
+                <h2>{{ electorate }}</h2>
                 <span @click="closePane" class="close-btn">Close</span>
             </div>
             <div class="pane-content">
-                <p>
-                    This will contain extra information about the electorate, including the MP, candidates, history etc.
-                </p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatem aut quas perspiciatis nobis est nesciunt ipsum necessitatibus molestias commodi sint pariatur magnam autem sit eligendi impedit nihil, labore possimus? Quasi!</p>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolor dicta labore officia numquam quisquam quis molestias omnis a. Eius optio quae aliquid quasi corporis quibusdam neque laboriosam tempore, rerum illo!</p>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quia rerum minus assumenda aliquid magni delectus doloribus incidunt iusto architecto? Voluptate quo fugiat excepturi nam vero voluptatibus neque doloremque minima illo.</p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Laborum commodi fugit nisi sapiente quae tenetur, distinctio itaque doloremque cupiditate eos. Inventore, accusamus. Velit, temporibus. Repellendus, veniam. Ea dolor commodi aliquid.</p>
+                <div v-if="!info" class="load-spin-wrapper">
+                    <div class="load-spinner black"/>
+                </div>
+                <p v-else-if="info === 'error'">Failed to load electorate...</p>
+                <div v-else>
+                    <p>{{ info.info.desc }}</p>
+                    <h3>Candidates</h3>
+                    <div v-for="(item, index) in info.candidates.y2022" :key="index">
+                        <p>{{ item.name.first }} {{ item.name.sur }} - {{item.party}}</p>
+                    </div>
+                </div>
             </div>
         </div>
         <div class="pane-bg" @click="closePane" />
@@ -21,9 +25,26 @@
 
 <script>
 export default {
+    props: [
+        "electorate"
+    ],
     methods: {
         closePane() {
             this.$parent.panelOpen = false
+        }
+    },
+    data() {
+        return {
+            info: null
+        }
+    },
+    async mounted() {
+        try {
+            const reqEl = await fetch(`/electorates/${this.electorate.toLowerCase()}.json`)
+            const elData = await reqEl.json()
+            this.info = elData
+        } catch(err) {
+            this.info = 'error'
         }
     }
 }
@@ -65,8 +86,9 @@ export default {
 
 .header {
     border-bottom: solid 1px rgba(0,0,0,.12);
-    padding: 20px;
+    margin: 20px;
     padding-bottom: 15px;
+    margin-bottom: 0px;
 
     display: flex;
     align-items: center;
@@ -98,5 +120,12 @@ export default {
 
 .close-btn:hover {
     opacity: 0.5;
+}
+
+.load-spin-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
 }
 </style>

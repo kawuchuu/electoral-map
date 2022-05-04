@@ -1,7 +1,7 @@
 <template>
   <main>
     <InDevNotice/>
-    <MoreInfoPane :class="showPane"/>
+    <MoreInfoPane v-if="panelOpen" :class="showPane" :electorate="currentEl"/>
     <l-map class="map-base" :zoom="zoom" :center="center">
       <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
       <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
@@ -39,7 +39,8 @@ export default {
       },
       polData: require('@/assets/currentelected.json'),
       loaded: false,
-      panelOpen: false
+      panelOpen: false,
+      currentEl: ''
     }
   },
   computed: {
@@ -121,6 +122,7 @@ export default {
           },
           click: () => {
             this.panelOpen = !this.panelOpen
+            this.currentEl = elName
           }
         })
       }
@@ -182,12 +184,17 @@ main {
 }
 
 .load-spinner {
-    border: 4px solid white;
-    border-left: 4px solid transparent;
-    border-radius: 50%;
-    width: 40px;
-    height: 40px;
-    animation: spin 1s linear infinite;
+  border: 4px solid white;
+  border-left: 4px solid transparent;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  animation: spin 1s linear infinite;
+}
+
+.load-spinner.black {
+  border-color: black;
+  border-left-color: transparent;
 }
 
 main .leaflet-container, body {

@@ -1,0 +1,73 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "The district of Melbourne... add description here!!"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Justin",
+                    "sur": "Borg"
+                },
+                "party": "United Australia Party"
+            },
+            {
+                "name": {
+                    "first": "Keir",
+                    "sur": "Patterson"
+                },
+                "party": "Australian Labor Party"
+            },
+            {
+                "name": {
+                    "first": "Adam",
+                    "sur": "Bandt"
+                },
+                "party": "The Greens"
+            },
+            {
+                "name": {
+                    "first": "James",
+                    "sur": "Damches"
+                },
+                "party": "Liberal"
+            },
+            {
+                "name": {
+                    "first": "Richard",
+                    "sur": "Peppard"
+                },
+                "party": "Liberal Democrats"
+            },
+            {
+                "name": {
+                    "first": "Scott",
+                    "sur": "Robson"
+                },
+                "party": "Independent"
+            },
+            {
+                "name": {
+                    "first": "Walter",
+                    "sur": "Stragan"
+                },
+                "party": "Pauline Hanson's One Nation"
+            },
+            {
+                "name": {
+                    "first": "Bruce",
+                    "sur": "Poon"
+                },
+                "party": "Animal Justice Party"
+            },
+            {
+                "name": {
+                    "first": "Colleen",
+                    "sur": "Bolger"
+                },
+                "party": "Victorian Socialists"
+            }
+        ]
+    }
+}

@@ -98,7 +98,8 @@ export default {
           <em>Click for more info</em>`,
           {
             permanent: false,
-            sticky: true
+            sticky: true,
+            opacity: 1
           }
         )
         layer.setStyle({
@@ -196,7 +197,14 @@ main .leaflet-container, body {
 main .leaflet-tooltip {
   border-radius: 10px;
   padding: 10px 12px;
+  background: rgba(255,255,255,0.75);
   backdrop-filter: blur(20px);
+  border: none;
+  min-width: 150px;
+}
+
+main .leaflet-tooltip-left:before, main .leaflet-tooltip-right:before {
+  display: none;
 }
 
 main .leaflet-tooltip h3 {

@@ -28,14 +28,14 @@ export default {
         aus: null
       },
       //hopefully i can deal with this later LMAO
-      url: 'https://api.mapbox.com/styles/v1/mapbox/streets-v10/tiles/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2F3dWNodXUiLCJhIjoiY2t0Mjh6d2t3MGxtYjMxcGs1Nmwwd2pxdyJ9.TGiI2hgQUsNnQf8Udt9xSQ',
+      url: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
       attribution:
-        'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Electorate data &copy; Commonwealth of Australia (Australian Electoral Commission)2022, Imagery © <a href="https://www.mapbox.com/">Mapbox</a>',
+        'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Electorate data &copy; Commonwealth of Australia (Australian Electoral Commission)2022, &copy; <a href="https://carto.com/attributions">CARTO</a>',
       zoom: 5,
       center: [-27.5, 135],
-      tileSize: 512,
+      //tileSize: 512,
       options: {
-        zoomOffset: -1,
+        //zoomOffset: -4,
       },
       polData: require('@/assets/currentelected.json'),
       loaded: false,
@@ -79,7 +79,7 @@ export default {
               coalition = true
               break;
             case "Independent":
-              color = "#7c34cf"
+              color = "#0b9e9e"
               break;
             case "United Australia":
               color = "#f8ef21"
@@ -94,7 +94,7 @@ export default {
         }
         layer.bindTooltip(
           `<h3>${feature.properties.Elect_div}</h3>
-          <p style="color: ${color}">${electorate ? electorate.party : "Unknown"}${coalition ? " (Coalition)" : ""}</p>
+          <p><div class="party-colour" style="background-color: ${color}"></div>${electorate ? electorate.party : "Unknown"}${coalition ? " (Coalition)" : ""}</p>
           <p>${electorate ? electorate.mp : "Unknown"}</p>
           <em>Click for more info</em>`,
           {
@@ -204,8 +204,8 @@ main .leaflet-container, body {
 main .leaflet-tooltip {
   border-radius: 10px;
   padding: 10px 12px;
-  background: rgba(255,255,255,0.75);
-  backdrop-filter: blur(20px);
+  background: rgba(255,255,255,0.7);
+  backdrop-filter: blur(20px) saturate(2);
   border: none;
   min-width: 150px;
 }
@@ -226,5 +226,13 @@ main .leaflet-tooltip p {
 em {
   opacity: 0.5;
   font-size: 0.1;
+}
+
+.party-colour {
+  width: 9px;
+  height: 9px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-right: 5px;
 }
 </style>

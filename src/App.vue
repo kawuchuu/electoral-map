@@ -27,13 +27,13 @@ export default {
       geojson: {
         aus: null
       },
-      //hopefully i can deal with this later LMAO
+      //might change this tileset later
       url: 'https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}{r}.png',
       attribution:
         'Map data &copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors, Electorate data &copy; Commonwealth of Australia (Australian Electoral Commission)2022, &copy; <a href="https://carto.com/attributions">CARTO</a>',
       zoom: 5,
       center: [-27.5, 135],
-      //tileSize: 512,
+      tileSize: 256,
       options: {
         //zoomOffset: -4,
       },
@@ -138,7 +138,7 @@ export default {
 </script>
 
 <style>
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
 
 #app {
   font-family: Avenir, Helvetica, Arial, sans-serif;
@@ -234,5 +234,10 @@ em {
   border-radius: 10px;
   display: inline-block;
   margin-right: 5px;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 </style>

@@ -12,10 +12,19 @@
                 <p v-else-if="info === 'error'">Failed to load electorate...</p>
                 <div v-else>
                     <p>{{ info.info.desc }}</p>
-                    <h3>Candidates</h3>
-                    <div v-for="(item, index) in info.candidates.y2022" :key="index">
-                        <p>{{ item.name.first }} {{ item.name.sur }} - {{item.party}}</p>
+                    <h3>Candidates in order of ballot</h3>
+                    <div class="candidate" v-for="(item, index) in info.candidates.y2022" :key="index">
+                        <div class="party-colour" :style="{backgroundColor: partyColour(item.party)}"></div>
+                        <div v-if="!item.portrait" class="candidate-img" />
+                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.first}_${item.name.sur}_${electorate}.jpeg')`}"/>
+                        <div class="candidate-info">
+                            <p class="candidate-name">{{ item.name.first }} {{ item.name.sur }}</p>
+                            <div class="party">
+                                <span>{{ item.party }}</span>
+                            </div>
+                        </div>
                     </div>
+                    <p class="footnote">Source: Australian Electoral Commission, viewed {{info.misc.dateUpdated}}.<br>Candidate portrait source: Australian Broadcasting Corporation, viewed {{ info.misc.dateUpdated }}</p>
                 </div>
             </div>
         </div>
@@ -24,6 +33,8 @@
 </template>
 
 <script>
+import partyColour from '@/components/partycolour'
+
 export default {
     props: [
         "electorate"
@@ -31,7 +42,8 @@ export default {
     methods: {
         closePane() {
             this.$parent.panelOpen = false
-        }
+        },
+        partyColour
     },
     data() {
         return {
@@ -75,8 +87,8 @@ export default {
 
 .pane {
     width: 100%;
-    max-width: 640px;
-    height: 420px;
+    max-width: 820px;
+    height: 560px;
     background: white;
     border-radius: 10px;
     box-shadow: 0px 2px 5px rgba(0,0,0,.4);
@@ -127,5 +139,40 @@ export default {
     justify-content: center;
     align-items: center;
     height: 100%;
+}
+
+.footnote {
+    font-size: 0.8em;
+    opacity: 0.8;
+}
+
+.candidate {
+    display: flex;
+    margin: 20px 0px;
+}
+
+.party-colour {
+    margin-right: 5px;
+    height: 100px;
+    width: 5px;
+}
+
+.candidate-name {
+    font-size: 1.15em;
+    margin: 5px 0px 8px;
+    font-weight: 500;
+}
+
+.candidate-img {
+    width: 70px;
+    height: 100px;
+    background: lightgrey;
+    margin-right: 15px;
+    background-size: cover;
+    background-position: center;
+}
+
+.party span {
+    font-size: 0.8em;
 }
 </style>

@@ -79,7 +79,7 @@ export default {
               coalition = true
               break;
             case "Independent":
-              color = "#0b9e9e"
+              color = "#828282"
               break;
             case "United Australia":
               color = "#f8ef21"

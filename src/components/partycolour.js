@@ -16,7 +16,7 @@ const partyColour = party => {
             return "#1456f1"
         }
         case "Independent": {
-            return "#0b9e9e"
+            return "#828282"
         }
         case "United Australia Party": {
             return "#f8ef21"
@@ -38,6 +38,24 @@ const partyColour = party => {
         }
         case "Victorian Socialists": {
             return "#000000"
+        }
+        case "Australian Values Party": {
+            return "#BDAE78"
+        }
+        case "Derryn Hinch's Justice Party": {
+            return "#012F5D"
+        }
+        case "Australian Federation Party": {
+            return "#538A2E"
+        }
+        case "Australian Citizens Party": {
+            return "#656600"
+        }
+        case "The Great Australian Party": {
+            return "#142860"
+        }
+        case "TNL": {
+            return "#53C2BD"
         }
         default: {
             return "black"

@@ -16,7 +16,7 @@
                     <div class="candidate" v-for="(item, index) in info.candidates.y2022" :key="index">
                         <div class="party-colour" :style="{backgroundColor: partyColour(item.party)}"></div>
                         <div v-if="!item.portrait" class="candidate-img" />
-                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.first}_${item.name.sur}_${electorate}.jpeg')`}"/>
+                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.sur.replace(/[ ']/g, '')}_${electorate}.jpeg')`}"/>
                         <div class="candidate-info">
                             <p class="candidate-name">{{ item.name.first }} {{ item.name.sur }}</p>
                             <div class="party">
@@ -24,7 +24,7 @@
                             </div>
                         </div>
                     </div>
-                    <p class="footnote">Source: Australian Electoral Commission, viewed {{info.misc.dateUpdated}}.<br>Candidate portrait source: Australian Broadcasting Corporation, viewed {{ info.misc.dateUpdated }}</p>
+                    <p class="footnote">Source: Australian Electoral Commission, viewed {{ info.misc.dateUpdated }}.<br>Candidate portrait source: Australian Broadcasting Corporation, viewed {{ info.misc.dateUpdated }}.</p>
                 </div>
             </div>
         </div>
@@ -49,6 +49,11 @@ export default {
         return {
             info: null
         }
+    },
+    errorCaptured(err, vm, info) {
+        console.log('caught error!')
+        this.info = 'error'
+        console.log(info)
     },
     async mounted() {
         try {

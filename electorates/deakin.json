@@ -1,0 +1,93 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Hon. Alfred Deakin, 1856–1919. Deakin was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Prime Minister of Australia (1903–04, 1905–08 and 1909–10) and a Member of the House of Representatives (1901–13)."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Matt",
+                    "sur": "Gregg"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rob",
+                    "sur": "Humphreys"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Qian",
+                    "sur": "Liu"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Katherine",
+                    "sur": "Dolheguy"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Harrison",
+                    "sur": "Carr"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michael",
+                    "sur": "Sukkar"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Judith",
+                    "sur": "Thompson"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bianca Joy",
+                    "sur": "Gidley"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Samantha",
+                    "sur": "Bastin"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Natasha",
+                    "sur": "Coughlan"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            }
+        ]
+    }
+}

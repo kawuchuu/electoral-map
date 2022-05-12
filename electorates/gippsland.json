@@ -1,0 +1,61 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the geographic area covered by the electoral division. The south-east region of Victoria was named in March 1840 to honour Sir George Gipps who was Governor of New South Wales at the time."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Greg",
+                    "sur": "Hansford"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Darren",
+                    "sur": "Chester"
+                },
+                "party": "National Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Gregory Emil",
+                    "sur": "Forster"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Marjorie",
+                    "sur": "Thorpe"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jim",
+                    "sur": "McDonald"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jannette",
+                    "sur": "Langley"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

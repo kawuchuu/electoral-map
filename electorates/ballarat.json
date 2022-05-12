@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the city covered by the electoral division. The name of the city is believed to be derived from the Aborignal word 'balaarat' meaning resting place or reclining on elbow."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "John",
+                    "sur": "Barnes"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ben",
+                    "sur": "Green"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alex",
+                    "sur": "Graham"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Kerryn",
+                    "sur": "Sedgman"
+                },
+                "party": "Australia Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Terri Elizabeth",
+                    "sur": "Pryse-Smith"
+                },
+                "party": "United Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rosalie",
+                    "sur": "Taxis"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Julia",
+                    "sur": "McGrath"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Catherine",
+                    "sur": "King"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

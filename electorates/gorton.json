@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. Sir John Grey Gorton GCMG AC CH, 1911-2002. Gorton was Prime Minister of Australia (1968–71), a Senator for Victoria (1949–68) and a Member of the House of Representatives (1968–75)."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Daniel",
+                    "sur": "Connor"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Praise",
+                    "sur": "Morris"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michael",
+                    "sur": "Virag"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Belle",
+                    "sur": "Gibson"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Brendan",
+                    "sur": "O'Connor"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Steven J",
+                    "sur": "Lončar"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Tony",
+                    "sur": "Dobran"
+                },
+                "party": "The Great Australian Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Paul",
+                    "sur": "Lassig"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "John",
+                    "sur": "Fletcher"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            }
+        ]
+    }
+}

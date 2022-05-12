@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. James Henry Scullin, 1876–1953. Scullin was Prime Minister of Australia (1929–32) and a Member of the House of Representatives (1910–13 and 1922–49)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Patchouli",
+                    "sur": "Paterson"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ursula van",
+                    "sur": "Bree"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Eric",
+                    "sur": "Koelmeyer"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrew",
+                    "sur": "Giles"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Yassin",
+                    "sur": "Albarri"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Virosh",
+                    "sur": "Perera"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Cameron",
+                    "sur": "Rowe"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            }
+        ]
+    }
+}

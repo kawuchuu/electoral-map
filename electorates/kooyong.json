@@ -1,0 +1,101 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the geographic location covered at one time by the electoral division. 'Kooyong' is believed to be an Aboriginal word for camp or resting place or possibly derived from the word 'guyun' meaning fighting spear."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Monique",
+                    "sur": "Ryan"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Scott Andrew",
+                    "sur": "Hardiman"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alexandra",
+                    "sur": "Thom"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michele",
+                    "sur": "Dale"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Josh",
+                    "sur": "Coyne"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Will",
+                    "sur": "Anderson"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Josh",
+                    "sur": "Frydenberg"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Peter",
+                    "sur": "Lynch"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rachael",
+                    "sur": "Nehmer"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Piers",
+                    "sur": "Mitchem"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "David",
+                    "sur": "Connolly"
+                },
+                "party": "Australian Values Party",
+                "portrait": true
+            }
+        ]
+    }
+}

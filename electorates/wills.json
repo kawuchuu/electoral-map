@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of William John Wills, 1834–61. Wills was the surveyor and astronomer of an ultimately unsuccessful 1860 government expedition to cross Australia from Melbourne to the Gulf of Carpentaria."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Tom",
+                    "sur": "Wright"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jill",
+                    "sur": "Tindal"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Emma",
+                    "sur": "Black"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sam",
+                    "sur": "Sergi"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sue",
+                    "sur": "Bolton"
+                },
+                "party": "Socialist Alliance",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Irene",
+                    "sur": "Zivkovic"
+                },
+                "party": "United Australia Party",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Peter",
+                    "sur": "Khalil"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Leah",
+                    "sur": "Horsfall"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sarah",
+                    "sur": "Jefford"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            }
+        ]
+    }
+}

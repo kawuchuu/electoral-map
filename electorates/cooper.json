@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of William Cooper, 1861–1941. Cooper was a Yorta Yorta man who as a spokesman for Aboriginal people called for direct representation in parliament, enfranchisement, land rights and federal control of Aboriginal affairs."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Rabin",
+                    "sur": "Bangaar"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Kath",
+                    "sur": "Larkin"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Celeste",
+                    "sur": "Liddle"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Adrian",
+                    "sur": "Whitehead"
+                },
+                "party": "FUSION: Science, Pirate, Secular, Climate Emergency",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jadon",
+                    "sur": "Atkinson"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Adam",
+                    "sur": "La Rosa"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "William Tristan",
+                    "sur": "Turner"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ged",
+                    "sur": "Kearney"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

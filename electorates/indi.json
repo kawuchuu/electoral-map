@@ -1,0 +1,93 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after an Aboriginal name for the Murray River."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Angel",
+                    "sur": "Aleksov"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Helen",
+                    "sur": "Haines"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Lachlan",
+                    "sur": "O'Connell"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Stephen",
+                    "sur": "Williams"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Beth",
+                    "sur": "Stevens"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Benjamin",
+                    "sur": "Gilbert"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Liz",
+                    "sur": "Fisher"
+                },
+                "party": "National Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Nadia",
+                    "sur": "David"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Julian",
+                    "sur": "Fidge"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ross",
+                    "sur": "Lyman"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            }
+        ]
+    }
+}

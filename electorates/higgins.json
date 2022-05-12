@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Henry Bournes Higgins KC, 1851–1929. Higgins was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Member of the House of Representatives (1901–06), a Justice of the High Court (1906–29) and President of the Commonwealth Conciliation and Arbitration Court (1907–21). Higgins is known for the Harvester Decision."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Matthew",
+                    "sur": "Ford"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ingram Magnus",
+                    "sur": "Spencer"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alica",
+                    "sur": "Walker"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Katie",
+                    "sur": "Allen"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrew",
+                    "sur": "Johnson"
+                },
+                "party": "Reason Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michelle",
+                    "sur": "Ananda-Rajah"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Suzie",
+                    "sur": "Menoudakis"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sonya",
+                    "sur": "Semmens"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            }
+        ]
+    }
+}

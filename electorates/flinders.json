@@ -1,0 +1,93 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Matthew Flinders, 1774–1814. Flinders was a well-known navigator and explorer who charted parts of the Australian coast. The adoption of the name Australia is due to him."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Alex",
+                    "sur": "Van Der End"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Cyndi",
+                    "sur": "Marr"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Chrysten",
+                    "sur": "Abraham"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Zoe",
+                    "sur": "McKenzie"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jefferson",
+                    "sur": "Earl"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Colin",
+                    "sur": "Lane"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sarah",
+                    "sur": "Russell"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Surbhi",
+                    "sur": "Snowball"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Despi",
+                    "sur": "O'Connor"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Pamela",
+                    "sur": "Engelander"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            }
+        ]
+    }
+}

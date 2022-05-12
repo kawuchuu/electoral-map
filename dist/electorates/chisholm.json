@@ -1,0 +1,109 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Caroline Chisholm, 1808–77. Chisholm was known for her work in encouraging emigration to Australia, her social work in New South Wales and Victoria, particularly with immigrant girls, and the building of a series of shelter sheds along the routes to the diggings in the Victorian goldfields."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Gladys",
+                    "sur": "Liu"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Thomas",
+                    "sur": "Stanfield"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Anthea",
+                    "sur": "Antonie"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Aaron",
+                    "sur": "Tyrrell"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Rod",
+                    "sur": "Whitfield"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ryan",
+                    "sur": "Dare"
+                },
+                "party": "Australian Citizens Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ethelyn",
+                    "sur": "King"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sarah",
+                    "sur": "Newman"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Melanie Merle",
+                    "sur": "Kempson"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Dominique",
+                    "sur": "Murphy"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Wayne",
+                    "sur": "Tseng"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Carina",
+                    "sur": "Garland"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

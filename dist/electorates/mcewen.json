@@ -1,0 +1,61 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. Sir John McEwen GCMG CH, 1900–80. McEwen was Prime Minister of Australia (1967–68) and a Member of the House of Representatives (1934–71)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Neil",
+                    "sur": "Barker"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Paul Joseph",
+                    "sur": "McRae"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Christopher",
+                    "sur": "Neil"
+                },
+                "party": "Australian Federal Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Chris",
+                    "sur": "Bradbury"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Richard",
+                    "sur": "Welch"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rob",
+                    "sur": "Mitchell"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

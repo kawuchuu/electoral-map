@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the geographic location covered by the electoral division. 'Mallee' is believed to be an Aboriginal word for dwarf eucalypts which grow in the area."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Anne",
+                    "sur": "Webster"
+                },
+                "party": "National Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sophie",
+                    "sur": "Baldwin"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Claudia",
+                    "sur": "Haenel"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Chris",
+                    "sur": "Lahy"
+                },
+                "party": "Australian Citizens Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Carole",
+                    "sur": "Hart"
+                },
+                "party": "Australian Labor Party",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Sam",
+                    "sur": "McColl"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Stuart William",
+                    "sur": "King"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Vanessa",
+                    "sur": "Atkinson"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            }
+        ]
+    }
+}

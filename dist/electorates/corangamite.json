@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the geographic area covered at one time by the electoral division. 'Corangamite' is believed to be derived from the Gulidjan word for 'bitter water'."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Stephen",
+                    "sur": "Juhasz"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alex",
+                    "sur": "Marshall"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Libby",
+                    "sur": "Coker"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Meg",
+                    "sur": "Watkins"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Stephanie",
+                    "sur": "Asher"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Paul",
+                    "sur": "Barker"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Luke",
+                    "sur": "Sorensen"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Daniel William",
+                    "sur": "Abou-Zeid"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jean-Marie",
+                    "sur": "D'Argent"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": true
+            }
+        ]
+    }
+}

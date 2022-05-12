@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. John Malcom Fraser AC CH, 1930–2015. Fraser was Prime Minister of Australia (1975–83) and a Member of the House of Representatives (1955–83)."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "David",
+                    "sur": "Wood"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Daniel",
+                    "sur": "Mulino"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Anthony",
+                    "sur": "Cursio"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bella",
+                    "sur": "Mitchell-Sears"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Keith James Aaron",
+                    "sur": "Raymond"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sabine de",
+                    "sur": "Pyle"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Catherine",
+                    "sur": "Robertson"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            }
+        ]
+    }
+}

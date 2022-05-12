@@ -1,7 +1,10 @@
 {
     "info": {
         "state": "Victoria",
-        "desc": "The district of Melbourne... add description here!!"
+        "desc": "Named after the City of Melbourne. The settlement of Port Phillip was named 'Melbourne' on 5 March 1837 in honour of Lord Melbourne who was the Prime Minister of Great Britain at the time."
+    },
+    "misc": {
+        "dateUpdated": "10 May 2022"
     },
     "candidates": {
         "y2022": [
@@ -10,63 +13,72 @@
                     "first": "Justin",
                     "sur": "Borg"
                 },
-                "party": "United Australia Party"
+                "party": "United Australia Party",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "Keir",
-                    "sur": "Patterson"
+                    "sur": "Paterson"
                 },
-                "party": "Australian Labor Party"
+                "party": "Australian Labor Party",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "Adam",
                     "sur": "Bandt"
                 },
-                "party": "The Greens"
+                "party": "The Australian Greens",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "James",
                     "sur": "Damches"
                 },
-                "party": "Liberal"
+                "party": "Liberal Party of Australia",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "Richard",
                     "sur": "Peppard"
                 },
-                "party": "Liberal Democrats"
+                "party": "Liberal Democratic Party",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "Scott",
                     "sur": "Robson"
                 },
-                "party": "Independent"
+                "party": "Independent",
+                "portrait": false
             },
             {
                 "name": {
                     "first": "Walter",
                     "sur": "Stragan"
                 },
-                "party": "Pauline Hanson's One Nation"
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
             },
             {
                 "name": {
                     "first": "Bruce",
                     "sur": "Poon"
                 },
-                "party": "Animal Justice Party"
+                "party": "Animal Justice Party",
+                "portrait": false
             },
             {
                 "name": {
                     "first": "Colleen",
                     "sur": "Bolger"
                 },
-                "party": "Victorian Socialists"
+                "party": "Victorian Socialists",
+                "portrait": true
             }
         ]
     }

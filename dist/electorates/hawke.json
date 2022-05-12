@@ -1,0 +1,101 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Hon. Robert James Lee Hawke AC, 1929–2019. Hawke was Prime Minister of Australia (1983–91) and a Member of the House of Representatives (1980–92)."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Michael",
+                    "sur": "Williams"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michael Edward",
+                    "sur": "Lacey"
+                },
+                "party": "The Great Australian Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sam",
+                    "sur": "Rae"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jarrod James",
+                    "sur": "Bingham"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Max",
+                    "sur": "Martucci"
+                },
+                "party": "TNL",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Enamul",
+                    "sur": "Haque"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Lynda",
+                    "sur": "Wheelock"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Nick",
+                    "sur": "Suduk"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Glenn",
+                    "sur": "Vessey"
+                },
+                "party": "Australian Citizens Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jack",
+                    "sur": "Hynes"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrew Glenn",
+                    "sur": "Cuthbertson"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            }
+        ]
+    }
+}

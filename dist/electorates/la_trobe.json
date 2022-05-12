@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Charles Joseph La Trobe, 1801–75. La Trobe was the first Lieutenant-Governor of the Colony of Victoria (1851–54)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Jason",
+                    "sur": "Wood"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Hadden",
+                    "sur": "Ervin"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Michael",
+                    "sur": "Schilling"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Merryn",
+                    "sur": "Mott"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Abhimanyu",
+                    "sur": "Kumar"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rebecca",
+                    "sur": "Skinner"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Michael",
+                    "sur": "Abelman"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Helen",
+                    "sur": "Jeges"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            }
+        ]
+    }
+}

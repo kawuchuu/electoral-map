@@ -1,0 +1,101 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Lord Richard Gavin Gardiner Casey KG GCMG CH DSO MC PC, 1890–1976. Casey was a Member of the House of Representatives (1931–40 and 1949–60) and Governor-General of Australia (1965–69)."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Jenny",
+                    "sur": "Game"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Craig",
+                    "sur": "Cole"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrew",
+                    "sur": "Klop"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Aaron",
+                    "sur": "Violi"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bill",
+                    "sur": "Brindle"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Paul",
+                    "sur": "Murphy"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Chris",
+                    "sur": "Field"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Trevor Walter",
+                    "sur": "Smith"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Peter",
+                    "sur": "Sullivan"
+                },
+                "party": "Derryn Hinch's Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Anthony Sebastian",
+                    "sur": "Bellve"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Claire",
+                    "sur": "Ferres Miles"
+                },
+                "party": "Independent",
+                "portrait": true
+            }
+        ]
+    }
+}

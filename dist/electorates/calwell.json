@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Arthur Augustus Calwell, 1896–1973. Calwell was a Member of the House of Representatives (1940–72)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Mark",
+                    "sur": "Preston"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Tim",
+                    "sur": "Staker-Gunn"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Natalie",
+                    "sur": "Abboud"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Maria",
+                    "sur": "Vamvakinou"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Joshua",
+                    "sur": "Naim"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jerome",
+                    "sur": "Small"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Maria",
+                    "sur": "Bengtsson"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            }
+        ]
+    }
+}

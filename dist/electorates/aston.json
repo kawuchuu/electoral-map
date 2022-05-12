@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Matilda 'Tilly' Ann Aston, 1873–1947. Aston was a blind writer and teacher who founded the Victorian Association of Braille Writers in 1894 and the Association for the Advancement of the Blind. Aston was also the head of the School for the Blind."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Rebekah Jane",
+                    "sur": "Spelman"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alan",
+                    "sur": "Tudge"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Asher",
+                    "sur": "Cookson"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ryan",
+                    "sur": "Bruce"
+                },
+                "party": "TNL",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Craig",
+                    "sur": "Ibbotson"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Liam",
+                    "sur": "Roche"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Mary",
+                    "sur": "Doyle"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

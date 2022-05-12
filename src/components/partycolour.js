@@ -63,6 +63,15 @@ const partyColour = party => {
         case "Sustainable Australia Party - Stop Overdevelopment / Corruption": {
             return "#008751"
         }
+        case "Reason Australia": {
+            return "#4BB8B3"
+        }
+        case "FUSION: Science, Pirate, Secular, Climate Emergency": {
+            return "#c926f2"
+        }
+        case "Socialist Alliance": {
+            return "#d40000"
+        }
         default: {
             return "black"
         }

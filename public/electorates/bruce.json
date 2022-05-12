@@ -1,0 +1,61 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. Lord Stanley Melbourne Bruce CH MC, 1883–1967. Bruce was Prime Minister of Australia (1923–29) and a Member of the House of Representatives (1918–29 and 1931–33)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Christine",
+                    "sur": "Skrobo"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Matt",
+                    "sur": "Babet"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Hayley",
+                    "sur": "Deans"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Julian",
+                    "sur": "Hill"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "James",
+                    "sur": "Moody"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Matthew",
+                    "sur": "Kirwan"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            }
+        ]
+    }
+}

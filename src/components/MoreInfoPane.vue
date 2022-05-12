@@ -16,7 +16,7 @@
                     <div class="candidate" v-for="(item, index) in info.candidates.y2022" :key="index">
                         <div class="party-colour" :style="{backgroundColor: partyColour(item.party)}"></div>
                         <div v-if="!item.portrait" class="candidate-img" />
-                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.sur.replace(/[ ']/g, '')}_${electorate}.jpg')`}"/>
+                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.sur.replace(/[ ']/g, '')}_${electorate.replace(/[ ]/g, '')}.jpg')`}"/>
                         <div class="candidate-info">
                             <p class="candidate-name">{{ item.name.first }} {{ item.name.sur }}</p>
                             <div class="party">
@@ -57,7 +57,7 @@ export default {
     },
     async mounted() {
         try {
-            const reqEl = await fetch(`/electorates/${this.electorate.toLowerCase()}.json`)
+            const reqEl = await fetch(`/electorates/${this.electorate.toLowerCase().replace(/[ ]/g, '_')}.json`)
             const elData = await reqEl.json()
             this.info = elData
         } catch(err) {
@@ -172,6 +172,7 @@ export default {
     width: 70px;
     height: 100px;
     background: lightgrey;
+    background-image: url('@/assets/no_candidate_image.png');
     margin-right: 15px;
     background-size: cover;
     background-position: center;

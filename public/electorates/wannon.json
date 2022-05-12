@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the Wannon River. The name 'Wannon' is believed to have been obtained by Major Mitchell from the local Jardwadjali people."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Graham",
+                    "sur": "Garner"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Dan",
+                    "sur": "Tehan"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ronnie",
+                    "sur": "Graham"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Hilary",
+                    "sur": "McAllister"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alex",
+                    "sur": "Dyson"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Craige",
+                    "sur": "Kensen"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Amanda",
+                    "sur": "Mead"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Gilbert",
+                    "sur": "Wilson"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

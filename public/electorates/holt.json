@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of the Rt Hon. Harold Edward Holt CH, 1908–67. Holt was Prime Minister of Australia (1966–67) and a Member of the House of Representatives (1935–67)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Ravi",
+                    "sur": "Ragupathy"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Cassandra",
+                    "sur": "Fernando"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Gerardine",
+                    "sur": "Hansen"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sandy",
+                    "sur": "Ambard"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Gregory",
+                    "sur": "Saldanha"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Matthew",
+                    "sur": "Nunez-Silva"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sujit",
+                    "sur": "Mathew"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ranj",
+                    "sur": "Perera"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            }
+        ]
+    }
+}

@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the Maribyrnong River. The name 'Maribyrnong' is variously believed to be: an Aboriginal word for 'yam' or 'edible root', or derived from the Woiwaurrung word 'Mirrangbamurn', with 'mirrang' meaning eye and 'barmurn' meaning ringtail possum, or from the traditional name 'Mareingalk', country belonging to the Mareinbulluc."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Mark Michael",
+                    "sur": "Hobart"
+                },
+                "party": "The Great Australian Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Daniel Nar",
+                    "sur": "Dadich"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bill",
+                    "sur": "Shorten"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jodie",
+                    "sur": "Tindal"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Darren",
+                    "sur": "Besanko"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Mira",
+                    "sur": "D'Silva"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rhonda",
+                    "sur": "Pryor"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alexander Anthony",
+                    "sur": "Ansalone"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Cameron",
+                    "sur": "Smith"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            }
+        ]
+    }
+}

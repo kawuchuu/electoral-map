@@ -1,0 +1,101 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "In recognition of their significant contribution in advocating for Aboriginal rights and welfare, the electoral division is jointly named in honour of: Sir Douglas Ralph Nicholls MBE(C) OBE(C) KCVO, 1906–88, a Yorta Yorta, Baraparapa, Dja Dja Wurrung, Jupagalk and Wergaia man, and Lady Gladys Nicholls, 1906–81, a Baraparapa and Dja Dja Wurrung woman."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Tim",
+                    "sur": "Laird"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sam",
+                    "sur": "Birrell"
+                },
+                "party": "National Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rikkie-Lee",
+                    "sur": "Tyrrell"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bill",
+                    "sur": "Lodwick"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jeff",
+                    "sur": "Davy"
+                },
+                "party": "Australian Citizens Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Robert",
+                    "sur": "Peterson"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ian",
+                    "sur": "Christoe"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrea",
+                    "sur": "Otto"
+                },
+                "party": "FUSION: Science, Pirate, Secular, Climate Emergency",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Steve",
+                    "sur": "Brooks"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Eleonor",
+                    "sur": "Tabone"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rob",
+                    "sur": "Priestly"
+                },
+                "party": "Independent",
+                "portrait": true
+            }
+        ]
+    }
+}

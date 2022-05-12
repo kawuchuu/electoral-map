@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Louisa Margaret Dunkley, 1866–1927. Dunkley was a union leader and feminist who founded the Victorian Women's Post and Telegraph Association in 1900 and campaigned for equal pay for women."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Darren",
+                    "sur": "Bergwerf"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Peta",
+                    "sur": "Murphy"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Damian",
+                    "sur": "Willis"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Elizabeth",
+                    "sur": "Johnston"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Liam",
+                    "sur": "O'Brien"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sharn",
+                    "sur": "Coombes"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Scott",
+                    "sur": "Middlebrook"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Kathryn",
+                    "sur": "Woods"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Adrian Kavin",
+                    "sur": "Irvine"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            }
+        ]
+    }
+}

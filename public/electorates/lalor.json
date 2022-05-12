@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Peter Lalor, 1827–89. Lalor was leader of the Eureka Stockade rebellion in Ballarat in 1854. In 1855 he was one of the first representatives from the goldfields elected to the Victorian Legislative Council."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Aijaz",
+                    "sur": "Moinuddin"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Claudio",
+                    "sur": "Uribe"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Juanita Coral",
+                    "sur": "Paterson"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Joanne",
+                    "sur": "Ryan"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Patriza",
+                    "sur": "Barcatta"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Peter",
+                    "sur": "Malliaros"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "James",
+                    "sur": "Ingarfill"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Jack",
+                    "sur": "Boddeke"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ravi",
+                    "sur": "Gaddipati"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            }
+        ]
+    }
+}

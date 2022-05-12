@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Joseph Gellibrand, 1786–1836. Gellibrand was a lawyer and explorer."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Suzette",
+                    "sur": "Rodoreda"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Monica",
+                    "sur": "Clark"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sharynn",
+                    "sur": "Moors"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Andrew",
+                    "sur": "Charles"
+                },
+                "party": "Victorian Socialists",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Abraham",
+                    "sur": "Isac"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Chloe",
+                    "sur": "Glasson"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Rob",
+                    "sur": "Braddock"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Tim",
+                    "sur": "Watts"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

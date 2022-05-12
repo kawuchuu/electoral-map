@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Sir Isaac Alfred Isaacs GCB GCMG KCMG PC QC, 1855–1948. Isaacs was an active member of the Constitutional Conventions that led to the Commonwealth of Australia, Member of the House of Representatives (1901–06), a Justice of the High Court (1906–30), Chief Justice of the High Court (1930–31) and the first Australian Governor-General of Australia (1931–36)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Boris",
+                    "sur": "Sokiransky"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Mark",
+                    "sur": "Dreyfus"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Sarah",
+                    "sur": "O'Donnell"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Robbie",
+                    "sur": "Beaton"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alex",
+                    "sur": "Breskin"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Alix",
+                    "sur": "Livingstone"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Scott Anson",
+                    "sur": "McCamish"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            }
+        ]
+    }
+}

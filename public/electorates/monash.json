@@ -1,0 +1,77 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named in honour of Sir John Monash CB(M) KCB(M) GCMG, 1865–1931. Monash was one of the foremost Allied military commanders of the First World War and was recognised for his outstanding contributions to the community."
+    },
+    "misc": {
+        "dateUpdated": "11 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Mat",
+                    "sur": "Morgan"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Russel",
+                    "sur": "Broadbent"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Deb",
+                    "sur": "Leonard"
+                },
+                "party": "Independent",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Allan",
+                    "sur": "Hicken"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "David Matthew",
+                    "sur": "Welsh"
+                },
+                "party": "Australian Federation Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jessica",
+                    "sur": "O'Donnell"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Meg",
+                    "sur": "Edwards"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Christine Ann",
+                    "sur": "McShane"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            }
+        ]
+    }
+}

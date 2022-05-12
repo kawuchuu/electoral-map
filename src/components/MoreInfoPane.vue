@@ -16,7 +16,7 @@
                     <div class="candidate" v-for="(item, index) in info.candidates.y2022" :key="index">
                         <div class="party-colour" :style="{backgroundColor: partyColour(item.party)}"></div>
                         <div v-if="!item.portrait" class="candidate-img" />
-                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.sur.replace(/[ ']/g, '')}_${electorate}.jpeg')`}"/>
+                        <div v-else class="candidate-img" :style="{backgroundImage: `url('/candidates/${item.name.sur.replace(/[ ']/g, '')}_${electorate}.jpg')`}"/>
                         <div class="candidate-info">
                             <p class="candidate-name">{{ item.name.first }} {{ item.name.sur }}</p>
                             <div class="party">

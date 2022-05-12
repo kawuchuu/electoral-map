@@ -1,0 +1,61 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after Sir Charles Hotham RN KCB, 1806–55. Hotham was Lieutenant-Governor of Victoria (1854-55) and the first Governor of Victoria (1855)."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Edward",
+                    "sur": "Sok"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Clare",
+                    "sur": "O'Neil"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Louisa",
+                    "sur": "Willoughby"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Bruce Scott",
+                    "sur": "Ridgway"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Roger",
+                    "sur": "Tull"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Savitri",
+                    "sur": "Bevinakoppa"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            }
+        ]
+    }
+}

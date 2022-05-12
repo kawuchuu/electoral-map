@@ -57,6 +57,12 @@ const partyColour = party => {
         case "TNL": {
             return "#53C2BD"
         }
+        case "National Party of Australia": {
+            return "#006644"
+        }
+        case "Sustainable Australia Party - Stop Overdevelopment / Corruption": {
+            return "#008751"
+        }
         default: {
             return "black"
         }

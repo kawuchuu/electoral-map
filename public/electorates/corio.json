@@ -1,0 +1,85 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the geographic area covered by the electoral division. 'Corio' is believed to have originated from an Aboriginal word 'coraiyo' meaning small marsupial or sandy cliffs or from the Aboriginal word 'Korayn' meaning salt."
+    },
+    "misc": {
+        "dateUpdated": "12 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "Sue",
+                    "sur": "Bull"
+                },
+                "party": "Socialist Alliance",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Jessica",
+                    "sur": "Taylor"
+                },
+                "party": "Australian Federation Party",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Manish",
+                    "sur": "Patel"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Simon",
+                    "sur": "Northeast"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Robert",
+                    "sur": "Jones"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Naomi",
+                    "sur": "Adams"
+                },
+                "party": "Animal Justice Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Max",
+                    "sur": "Payne"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Shane",
+                    "sur": "Murdock"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Richard",
+                    "sur": "Marles"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            }
+        ]
+    }
+}

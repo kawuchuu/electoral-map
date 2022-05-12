@@ -1,0 +1,69 @@
+{
+    "info": {
+        "state": "Victoria",
+        "desc": "Named after the city covered by the electoral division. The city is named after a Ravenswood shepherd who was nicknamed 'Bendigo' after an English pugilist, Abednego William Thompson."
+    },
+    "misc": {
+        "dateUpdated": "13 May 2022"
+    },
+    "candidates": {
+        "y2022": [
+            {
+                "name": {
+                    "first": "James",
+                    "sur": "Laurie"
+                },
+                "party": "Independent",
+                "portrait": false
+            },
+            {
+                "name": {
+                    "first": "Lisa",
+                    "sur": "Chesters"
+                },
+                "party": "Australian Labor Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Darin",
+                    "sur": "Schade"
+                },
+                "party": "Liberal Party of Australia",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Cate",
+                    "sur": "Sinclair"
+                },
+                "party": "The Australian Greens",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Matt",
+                    "sur": "Bansemer"
+                },
+                "party": "Liberal Democratic Party",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Ben",
+                    "sur": "Mihail"
+                },
+                "party": "Pauline Hanson's One Nation",
+                "portrait": true
+            },
+            {
+                "name": {
+                    "first": "Elijah",
+                    "sur": "Suares"
+                },
+                "party": "United Australia Party",
+                "portrait": true
+            }
+        ]
+    }
+}

@@ -1,6 +1,6 @@
 <template>
   <div class="indev-notice" v-if="!closedNotice">
-    <div />
+    <div class="filler" />
     <span class="notice">This web app is currently in early development and is not final. Please note some data and information may not be correct.</span>
     <span class="x-close" @click="hideNotice">Ｘ</span>
   </div>
@@ -45,6 +45,7 @@ a {
 }
 .notice {
     transform: translateX(50px);
+    pointer-events: none;
 }
 .x-close {
     font-size: 1.2em;
@@ -53,5 +54,18 @@ a {
 }
 .x-close:hover {
     opacity: 0.3;
+}
+
+@media (max-width: 700px) {
+  .filler {
+    display: none;
+  }
+  .indev-notice {
+    text-align: left;
+  }
+  .notice {
+    transform: none;
+    margin-left: 15px;
+  }
 }
 </style>

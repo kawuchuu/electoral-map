@@ -36,8 +36,8 @@
         "mp": "Lisa Chesters"
     },
     "Bennelong": {
-        "party": "Unclear (as of 21/05/22 23:37)",
-        "mp": "Liberal Ahead"
+        "party": "Liberal",
+        "mp": "John Alexander"
     },
     "Berowra": {
         "party": "Liberal",
@@ -56,12 +56,12 @@
         "mp": "Ross Vasta"
     },
     "Boothby": {
-        "party": "Labor",
-        "mp": "Louise Miller-Frost"
+        "party": "Liberal",
+        "mp": "Nicolle Flint"
     },
     "Bowman": {
         "party": "Liberal National",
-        "mp": "Henry Pike"
+        "mp": "Andrew Laming"
     },
     "Braddon": {
         "party": "Liberal",
@@ -76,8 +76,8 @@
         "mp": "Madeleine King"
     },
     "Brisbane": {
-        "party": "Unclear (as of 21/05/22 23:41)",
-        "mp": "Greens Ahead"
+        "party": "Liberal National",
+        "mp": "Trevor Evans"
     },
     "Bruce": {
         "party": "Labor",
@@ -109,15 +109,15 @@
     },
     "Casey": {
         "party": "Liberal",
-        "mp": "Aaron Violi"
+        "mp": "Tony Smith"
     },
     "Chifley": {
         "party": "Labor",
         "mp": "Ed Husic"
     },
     "Chisholm": {
-        "party": "Labor",
-        "mp": "Carina Garland"
+        "party": "Liberal",
+        "mp": "Gladys Liu"
     },
     "Clark": {
         "party": "Independent",
@@ -149,19 +149,19 @@
     },
     "Cunningham": {
         "party": "Labor",
-        "mp": "Alison Byrnes"
+        "mp": "Sharon Bird"
     },
     "Curtin": {
-        "party": "Unclear (as of 21/05/22 23:44)",
-        "mp": "Independent Ahead"
+        "party": "Liberal",
+        "mp": "Celia Hammond"
     },
     "Dawson": {
-        "party": "Liberal National",
-        "mp": "Andrew Willcox"
+        "party": "Independent",
+        "mp": "George Christensen"
     },
     "Deakin": {
-        "party": "Unclear (as of 22/05/22 00:10)",
-        "mp": "Labor Ahead"
+        "party": "Liberal",
+        "mp": "Michael Sukkar"
     },
     "Dickson": {
         "party": "Liberal National",
@@ -205,11 +205,11 @@
     },
     "Flinders": {
         "party": "Liberal",
-        "mp": "Zoe McKenzie"
+        "mp": "Greg Hunt"
     },
     "Flynn": {
         "party": "Liberal National",
-        "mp": "Colin Boyce"
+        "mp": "Ken O'Dowd"
     },
     "Forde": {
         "party": "Liberal National",
@@ -220,8 +220,8 @@
         "mp": "Nola Marino"
     },
     "Fowler": {
-        "party": "Independent",
-        "mp": "Dai Le"
+        "party": "Labor",
+        "mp": "Chris Hayes"
     },
     "Franklin": {
         "party": "Labor",
@@ -240,16 +240,16 @@
         "mp": "Tim Watts"
     },
     "Gilmore": {
-        "party": "Unclear (as of 21/05/22 23:49)",
-        "mp": "Liberal Ahead"
+        "party": "Labor",
+        "mp": "Fiona Phillips"
     },
     "Gippsland": {
         "party": "National",
         "mp": "Darren Chester"
     },
     "Goldstein": {
-        "party": "Independent",
-        "mp": "Zoe Daniel"
+        "party": "Liberal",
+        "mp": "Tim Wilson"
     },
     "Gorton": {
         "party": "Labor",
@@ -268,7 +268,7 @@
         "mp": "Rowan Ramsey"
     },
     "Griffith": {
-        "party": "Unclear (as of 21/05/22 23:51)",
+        "party": "Labor",
         "mp": "Terri Butler"
     },
     "Groom": {
@@ -276,20 +276,20 @@
         "mp": "Garth Hamilton"
     },
     "Hasluck": {
-        "party": "Labor",
-        "mp": "Tania Lawrence"
+        "party": "Liberal",
+        "mp": "Ken Wyatt"
     },
     "Hawke": {
-        "party": "Labor",
-        "mp": "Sam Rae"
+        "party": "This is a new electorate.",
+        "mp": "Will be contested in the 2022 federal election."
     },
     "Herbert": {
         "party": "Liberal National",
         "mp": "Phillip Thompson"
     },
     "Higgins": {
-        "party": "Labor",
-        "mp": "Michelle Ananda-Rajah"
+        "party": "Liberal",
+        "mp": "Katie Allen"
     },
     "Hindmarsh": {
         "party": "Labor",
@@ -301,15 +301,15 @@
     },
     "Holt": {
         "party": "Labor",
-        "mp": "Cassandra Fernado"
+        "mp": "Anthony Byrne"
     },
     "Hotham": {
         "party": "Labor",
         "mp": "Clare O'Neil"
     },
     "Hughes": {
-        "party": "Liberal",
-        "mp": "Jenny Ware"
+        "party": "United Australia",
+        "mp": "Craig Kelly"
     },
     "Hume": {
         "party": "Liberal",
@@ -317,7 +317,7 @@
     },
     "Hunter": {
         "party": "Labor",
-        "mp": "Dan Repacholi"
+        "mp": "Joel Fitzgibbon"
     },
     "Indi": {
         "party": "Independent",
@@ -344,8 +344,8 @@
         "mp": "Amanda Rishworth"
     },
     "Kooyong": {
-        "party": "Unclear (as of 21/05/22 23:53)",
-        "mp": "Independent Ahead"
+        "party": "Liberal",
+        "mp": "Josh Frydenberg"
     },
     "La Trobe": {
         "party": "Liberal",
@@ -368,8 +368,8 @@
         "mp": "Melissa McIntosh"
     },
     "Lingiari": {
-        "party": "Unclear (as of 21/05/22 23:54)",
-        "mp": "Labor Ahead"
+        "party": "Labor",
+        "mp": "Warren Snowdon"
     },
     "Longman": {
         "party": "Liberal National",
@@ -380,20 +380,20 @@
         "mp": "David Gillespie"
     },
     "Lyons": {
-        "party": "Unclear (as of 21/05/22 23:55)",
-        "mp": "Labor Ahead"
+        "party": "Labor",
+        "mp": "Brian Mitchell"
     },
     "Macarthur": {
         "party": "Labor",
         "mp": "Mike Freelander"
     },
     "Mackellar": {
-        "party": "Independent",
-        "mp": "Sophie Scamps"
+        "party": "Liberal",
+        "mp": "Jason Falinski"
     },
     "Macnamara": {
-        "party": "Unclear (as of 21/05/22 23:56)",
-        "mp": "Labor Ahead"
+        "party": "Labor",
+        "mp": "Josh Burns"
     },
     "Macquarie": {
         "party": "Labor",
@@ -436,8 +436,8 @@
         "mp": "Adam Bandt"
     },
     "Menzies": {
-        "party": "Unclear (as of 21/05/22 23:57)",
-        "mp": "Liberal Ahead"
+        "party": "Liberal",
+        "mp": "Kevin Andrews"
     },
     "Mitchell": {
         "party": "Liberal",
@@ -452,7 +452,7 @@
         "mp": "Angie Bell"
     },
     "Moore": {
-        "party": "Unclear (as of 21/05/22 23:58)",
+        "party": "Liberal",
         "mp": "Ian Goodenough"
     },
     "Moreton": {
@@ -472,8 +472,8 @@
         "mp": "Damian Drum"
     },
     "North Sydney": {
-        "party": "Independent",
-        "mp": "Kylea Tink"
+        "party": "Liberal",
+        "mp": "Trent Zimmerman"
     },
     "O'Connor": {
         "party": "Liberal",
@@ -493,15 +493,15 @@
     },
     "Parramatta": {
         "party": "Labor",
-        "mp": "Andrew Charlton"
+        "mp": "Julie Owens"
     },
     "Paterson": {
         "party": "Labor",
         "mp": "Meryl Swanson"
     },
     "Pearce": {
-        "party": "Labor",
-        "mp": "Tracey Roberts"
+        "party": "Liberal",
+        "mp": "Christian Porter"
     },
     "Perth": {
         "party": "Labor",
@@ -516,8 +516,8 @@
         "mp": "Jim Chalmers"
     },
     "Reid": {
-        "party": "Labor",
-        "mp": "Sally Sitou"
+        "party": "Liberal",
+        "mp": "Fiona Martin"
     },
     "Richmond": {
         "party": "Labor",
@@ -528,12 +528,12 @@
         "mp": "Michael McCormack"
     },
     "Robertson": {
-        "party": "Labor",
-        "mp": "Gordon Reid"
+        "party": "Liberal",
+        "mp": "Lucy Wicks"
     },
     "Ryan": {
-        "party": "Greens",
-        "mp": "Elizabeth Watson-Brown"
+        "party": "Liberal National",
+        "mp": "Julian Simmonds"
     },
     "Scullin": {
         "party": "Labor",
@@ -549,23 +549,23 @@
     },
     "Spence": {
         "party": "Labor",
-        "mp": "Matt Burnell"
+        "mp": "Nick Champion"
     },
     "Sturt": {
         "party": "Liberal",
         "mp": "James Stevens"
     },
     "Swan": {
-        "party": "Labor",
-        "mp": "Zaneta Mascarenhas"
+        "party": "Liberal",
+        "mp": "Steve Irons"
     },
     "Sydney": {
         "party": "Labor",
         "mp": "Tanya Plibersek"
     },
     "Tangney": {
-        "party": "Labor",
-        "mp": "Sam Lim"
+        "party": "Liberal",
+        "mp": "Ben Morton"
     },
     "Wannon": {
         "party": "Liberal",
@@ -580,8 +580,8 @@
         "mp": "Tony Burke"
     },
     "Wentworth": {
-        "party": "Unclear (as of 22/05/22 00:03)",
-        "mp": "Independent Ahead"
+        "party": "Liberal",
+        "mp": "Dave Sharma"
     },
     "Werriwa": {
         "party": "Labor",

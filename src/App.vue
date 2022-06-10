@@ -2,25 +2,30 @@
   <main>
     <InDevNotice/>
     <MoreInfoPane v-if="panelOpen" :class="showPane" :electorate="currentEl"/>
-    <l-map class="map-base" :zoom="zoom" :center="center">
-      <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
-      <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
-      <div class="load-cover" v-if="!loaded">
-        <div class="load-spinner"/>
-      </div>
-    </l-map>
+    <div class="main-content">
+      <SidebarMain :sidebarOpen="sidebarOpen" />
+      <l-map class="map-base" :zoom="zoom" :center="center">
+        <l-tile-layer :url="url" :attribution="attribution" :tile-size="tileSize" :options="options" />
+        <l-geo-json :geojson="geojson.aus" class="vic" :options="geoOptions" />
+        <div class="load-cover" v-if="!loaded">
+          <div class="load-spinner"/>
+        </div>
+      </l-map>
+    </div>
   </main>
 </template>
 
 <script>
 import InDevNotice from '@/components/InDevNotice'
 import MoreInfoPane from '@/components/MoreInfoPane.vue'
+import SidebarMain from '@/components/SidebarMain.vue'
 
 export default {
   name: 'App',
   components: {
     InDevNotice,
-    MoreInfoPane
+    MoreInfoPane,
+    SidebarMain
   },
   data() {
     return {
@@ -40,7 +45,8 @@ export default {
       polData: require('@/assets/currentelected.json'),
       loaded: false,
       panelOpen: false,
-      currentEl: ''
+      currentEl: '',
+      sidebarOpen: false
     }
   },
   computed: {
@@ -148,6 +154,10 @@ export default {
   color: #2c3e50;
 }
 
+:root {
+  --curve: cubic-bezier(0, 0, 0, 1);
+}
+
 body {
   margin: 0px;
   width: 100vw;
@@ -157,6 +167,13 @@ body {
 main {
   width: 100%;
   height: 100%;
+}
+
+.main-content {
+  width: 100%;
+  height: 100%;
+  display: grid;
+  grid-template-columns: min-content 1fr;
 }
 
 .map-base {

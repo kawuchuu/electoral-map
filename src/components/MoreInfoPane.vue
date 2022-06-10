@@ -3,7 +3,7 @@
         <div class="pane">
             <div class="header">
                 <h2>{{ electorate }}</h2>
-                <span @click="closePane" class="close-btn">Close</span>
+                <span @click="closePane" class="close-btn material-symbols-outlined">close</span>
             </div>
             <div class="pane-content">
                 <div v-if="!info" class="load-spin-wrapper">
@@ -34,6 +34,7 @@
 
 <script>
 import partyColour from '@/components/partycolour'
+//import { parse } from 'csv-parse/browser/esm'
 
 export default {
     props: [
